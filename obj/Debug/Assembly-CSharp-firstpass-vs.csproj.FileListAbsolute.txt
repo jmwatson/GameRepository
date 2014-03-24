@@ -1,0 +1,10 @@
+C:\Users\jmwatson\Documents\Unity\PrototypeAdventureGame\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\jmwatson\Documents\Unity\PrototypeAdventureGame\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\jmwatson\Documents\Unity\PrototypeAdventureGame\Temp\bin\Debug\UnityEditor.dll
+C:\Users\jmwatson\Documents\Unity\PrototypeAdventureGame\Temp\bin\Debug\UnityEngine.dll
+C:\Users\jmwatson\Documents\Unity\PrototypeAdventureGame\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\jmwatson\Documents\Unity\PrototypeAdventureGame\Temp\bin\Debug\nunit.framework.dll
+C:\Users\jmwatson\Documents\Unity\PrototypeAdventureGame\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\jmwatson\Documents\Unity\PrototypeAdventureGame\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+C:\Users\jmwatson\Documents\Unity\PrototypeAdventureGame\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\jmwatson\Documents\Unity\PrototypeAdventureGame\obj\Debug\Assembly-CSharp-firstpass.pdb
