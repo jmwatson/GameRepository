@@ -1,6 +1,8 @@
 # Unity3D .gitignore file.
 # Store this file at the root of your local repository.
 .DS_Store
+
+# Ignoring specific Library stuff.
 Library/AssetImportState
 Library/AssetServerCacheV3
 Library/FailedAssetImports.txt
@@ -12,7 +14,14 @@ Library/expandedItems
 Library/metadata
 Library/previews
 Library/guidmapper
-Temp
+
+# Don't need Temp or Build at all.
+Temp/*
+Build/*
+
+# Don't need the custom settings because not
+# everyone has the same setup.
 *.csproj
 *.pidb
 *.sln
+*.userprefs
